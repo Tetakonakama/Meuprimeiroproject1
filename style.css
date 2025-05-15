@@ -110,5 +110,12 @@ h2 {
 }
 /*chama classe do bootstrap para modificar a cor*/
 .formulario button
- background-color: #F1EDEF;
+ background-color: #CB6D43;
+    border: none;
+    font-weight: bold;
+}
+
+/* chama classe do bootstrap para modificar a cor */
+.form-control {
+    background-color: #F1EDEF;
 }
